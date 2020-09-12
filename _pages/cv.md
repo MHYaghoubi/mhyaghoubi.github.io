@@ -49,7 +49,7 @@ Talks
   {% endfor %}</ul>
   
 Teaching
-======
+====== 1
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
