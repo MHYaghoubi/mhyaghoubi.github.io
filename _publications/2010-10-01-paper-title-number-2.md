@@ -3,7 +3,7 @@ title: "Energetics of a driven Brownian harmonic oscillator"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: ''
-date: 2017-01-01
+date: 2017-04-01
 venue: 'Journal of Statistical Mechanics: Theory and Experiment'
 paperurl: ''
 citation: 'Yaghoubi, M., Foulaadvand, M.E., Bérut, A. and Łuczka, J., 2017. Energetics of a driven Brownian harmonic oscillator. Journal of Statistical Mechanics: Theory and Experiment, 2017(11), p.113206.'
