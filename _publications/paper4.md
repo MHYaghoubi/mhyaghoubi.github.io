@@ -3,7 +3,7 @@ title: "Normal modes of a defected linear system of beaded springs"
 collection: publications
 permalink: /publication/paper4
 excerpt: ''
-date: 2017-01-01
+date: 2017-02-01
 venue: 'American Journal of Physics'
 paperurl: ''
 citation: 'Aghamohammadi, A., Foulaadvand, M.E., Yaghoubi, M.H. and Mousavi, A.H., 2017. Normal modes of a defected linear system of beaded springs. American Journal of Physics, 85(3), pp.193-201.'
