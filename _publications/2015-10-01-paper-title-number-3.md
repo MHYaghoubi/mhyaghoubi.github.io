@@ -3,7 +3,7 @@ title: "Thermal ratchet effect in confining geometries"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: ''
-date: 2017-01-01
+date: 2017-03-01
 venue: 'Entropy'
 paperurl: ''
 citation: 'Holubec, V., Ryabov, A., Yaghoubi, M.H., Varga, M., Khodaee, A., Foulaadvand, M.E. and Chvosta, P., 2017. Thermal ratchet effect in confining geometries. Entropy, 19(4), p.119.'
