@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+[Download CV here](http://mhyaghoubi.github.io/files/CV_MH.pdf)
 
 Education
 ======
